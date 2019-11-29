@@ -1,0 +1,1 @@
+var appid1="https://www.baidu.com"
